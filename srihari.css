@@ -1,0 +1,25 @@
+
+.s2
+{
+    padding-top: 580px;
+    color:black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.s3
+{
+    background-color:azure;
+    border: groove;
+    border-radius: 30px;
+}
+.align{
+    background-color:aliceblue;
+    text-align: left;
+    color: chartreuse;
+    border: groove;
+    border-radius: 30px;
+}
+ .s4 a{
+    text-decoration: none;
+    margin-left: 50px;
+}
